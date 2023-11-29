@@ -4,7 +4,7 @@ Welcome to my GitHub repository documenting my journey in mastering the Node.js 
 
 ## Introduction
 
-I'm [Your Name], a passionate developer on a quest to become proficient in full-stack development using the MERN stack. This repository serves as a portfolio showcasing my projects and progress. I'm actively seeking opportunities to collaborate and contribute to exciting projects.
+I'm Hillary, a passionate developer on a quest to become proficient in full-stack development using the MERN stack. This repository serves as a portfolio showcasing my projects and progress. I'm actively seeking opportunities to collaborate and contribute to exciting projects.
 
 ## Technologies Used
 
